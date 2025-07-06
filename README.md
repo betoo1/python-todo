@@ -67,8 +67,3 @@ Edit
 
 ---
 
-## ✅ Sonraki Adımlar
-
-1. Proje dizininde terminal aç:
-```bash
-cd /home/betoo/python-projeleri/todo
